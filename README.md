@@ -1,3 +1,4 @@
+![King County](/images/King_County_Landscape.jpeg)
 # Title
 
 **Authors**: Dermot O'Brien, Eddie Juarez, Eliot Kmiec
