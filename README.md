@@ -54,18 +54,20 @@ We have developed a robust multiple linear regression model that provides our cl
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Final_Deliverable_Notebook.ipynb) or our [presentation](./King_County_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Dermot O'Brien & dermot.obri@gmail.com, Eddie Juarez & mr.eduardjuarez@gmail.com, Elito Kmiec & eliotkmiec@gmail.com**
 
 ## Repository Structure
 
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── README.md                           <- The top-level summary README for reviewers of this project
+├── Final_Deliverable_Notebook.ipynb    <- Narrative documentation of analysis in Jupyter notebook
+├── King_County_Presentation.pdf        <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
+├── Results                             <- Visuals stored as pdfs
+└── working_notebooks                   <- Scratch notebooks of code for our analysis
 ```
