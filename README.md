@@ -1,5 +1,5 @@
 ![King County](/images/King_County_Landscape.jpeg)
-# Title
+# King County Housing Project
 
 **Authors**: Dermot O'Brien, Eddie Juarez, Eliot Kmiec
 
